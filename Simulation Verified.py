@@ -17,11 +17,9 @@ Created on Fri Jan 26 08:41:39 2024
 #Record important Queue statistics
 #Prepare Charts PLots and Tables
 #Verify and Validate that it works Correctly
-#Prepare the schematics of how it works so your dumb advisors can understand
 #Determine a logical objective function with all metrics in the same Unit
  
-#https://www.youtube.com/watch?v=d9hpfrrZXac&list=PLU6SqdYcYsfJxRfVS-vKgVa-Oz-THIJNk
-# Watch queueing theory
+
  
  
  
